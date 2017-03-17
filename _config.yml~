@@ -7,16 +7,16 @@ url: "http://captaincornholio.github.io/" # the base hostname & protocol for you
 author:
   name     : Captain Cornholio
   bio      : 
-  email    : 
-  twitter  : 
+  email    : captaincornholiousa@gmail.com
+  twitter  : https://twitter.com/captcornholio
 
 #SEO settings
 logo: /assets/img/img-blog.png/ # Site logo URL
 twitter_username: captcornholio # Twitter username
 facebook:
-    app_id: # App ID
-    publisher: # URL of the Facebook page
-    admins: # Facebook user ID that manages the page
+    app_id: 1445035275808959 # App ID
+    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
+    admins: 100000229048939 # Facebook user ID that manages the page
 
 # Build settings
 permalink: /:title/
