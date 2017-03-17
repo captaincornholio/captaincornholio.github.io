@@ -1,0 +1,21 @@
+---
+layout: page
+title: Blog
+description: The Captain's Log
+---
+
+<section class="blog">
+
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        <li class="post-container"> 
+
+          <p> <span><b><i>{{ post.date | date: "%-d %b, %Y" }}</i></b></span> — <a class="post-link" href="{{ post.permalink | prepend: site.baseurl }}"><b>{{ post.title }}</b></a> <p></p> {{ post.content | strip_html | truncatewords: 50  }} <a href="{{ post.permalink | prepend: site.baseurl }}"> Read more... </a> </p>
+
+        </li>
+      {% endfor %}
+    </ul>
+
+    {% include pagination.html %}
+
+</section>

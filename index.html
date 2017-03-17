@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  
+  <p class="welcome-title"> Welcome to The Captain's Log! </p>
+  <p> Enjoy your stay! </p>
+  <hr>
+  
+    <ul class="post-list">
+      {% for post in site.posts limit:5 %}
+        <li class="post-container"> 
+        
+          <p> <span class="post-date"><i>{{ post.date | date: "%m/%d/%Y" }}</i></span> — <a class="post-link" href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a> <p></p> {{ post.content | strip_html | truncatewords: 50  }} <a href="{{ post.permalink | prepend: site.baseurl }}"> Read more... </a> </p>
+
+        </li>
+      {% endfor %}
+    </ul>
+<!--
+    <a href="blog"> See more in the blog... </a>
+
+    <p class="rss-subscribe">Subscribe <a aria-label="Subscribe via RSS and receive all new posts" href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> and receive all new posts</p>
+-->
+</div>
