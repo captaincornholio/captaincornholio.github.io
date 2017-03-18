@@ -1,24 +1,10 @@
 [
   
     {
-      "title"    : "Gooch content",
+      "title"    : "Welcome to the Captain&#39;s Log",
       "tags"     : "",
-      "url"      : "/test-gooch/",
-      "date"     : "17 Mar 2017"
-    } ,
-  
-    {
-      "title"    : "Example content",
-      "tags"     : "",
-      "url"      : "/example/",
-      "date"     : "31 Jan 2017"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "tags"     : "",
-      "url"      : "/welcome-to-jekyll/",
-      "date"     : "25 Jan 2017"
+      "url"      : "/welcome-to-the-captains-log/",
+      "date"     : "18 Mar 2017"
     } 
   
 ]
