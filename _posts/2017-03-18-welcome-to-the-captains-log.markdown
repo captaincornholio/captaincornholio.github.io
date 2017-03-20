@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the Captain's Log"
 date:   2017-03-18 09:00:00 -0500
-description: Gooch my life.
+description: Welcome.
 permalink: /welcome-to-the-captains-log/
 ---
 
