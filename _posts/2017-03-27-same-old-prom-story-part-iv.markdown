@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Same Old Prom Story: Part IV"
-date: 2017-03-24 09:00:00 -0500
+date: 2017-03-27 09:00:00 -0500
 description: A little satire.
 permalink: /same-old-prom-story-part-iv/
 ---
