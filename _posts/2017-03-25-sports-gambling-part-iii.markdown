@@ -48,8 +48,9 @@ This goes back to spreads and lines. Remember, the bookies want half the action 
 
 The bookies respond to this by shifting the line to Franciscan (-4) and Pittsburgh (+4). The gamblers who made bets with the +6/-6 spread keep that bet, but anyone who makes a bet from the moment the bookie changed the line has to make a decision on the +4/-4 line.
 
-# Hedging
-
 # Fading
 
+Fading simply means to bet against a person or team. I have no idea where this term originates, but apparently it was originally called "coppering" and then like all trendy phrases, it evolved. Whenever a team does poorly, a gambler might proclaim, "Fade Penn State!" Likewise if a person who publically posts their gambling picks online and is on a losing streak, people may suggest others to "fade him". Lastly, in frustration after losing a bunch of bets and running out of money, I might slump down against the wall and mutter, "Fade me."
+
+Now, you all have no excuse to not understand me when I make gambling references. One final word of advice, if you ever get caught in a situation where I am going off about bets I would place theoretically or in reality, fade me hard.
 
