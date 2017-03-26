@@ -37,7 +37,7 @@ Props, short for propositional bets, are pretty silly and I try to avoid them wh
 
 # Futures
 
-Future bets are long-term bets for bigger events in the future such as which team might win a championship. They are pretty much a scam due to the unpredictable nature of sports?
+Future bets are long-term bets for bigger events in the future such as which team might win a championship. They are pretty much a scam due to the unpredictable nature of sports.
 
 > What team will win the 2017 Ultimate College National Championship?
 > 
