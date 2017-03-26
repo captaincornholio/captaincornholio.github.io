@@ -22,6 +22,7 @@ Props, short for propositional bets, are pretty silly and I try to avoid them wh
 > How many turnovers will there be on the first point?
 > 
 > 0 (-115)
+> 
 > 1 (+110)
 > 
 > 2 or more (+150)
