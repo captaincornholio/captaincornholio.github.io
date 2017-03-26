@@ -42,3 +42,7 @@ I had no idea the Arizona Coyotes was a hockey team, but apparently they were tr
 
 ![Yeah, fuck Vegas.](\assets\img\bovada_check.png)
 
+# A Frisbee Conclusion
+
+So in my examples of betting terms, I created a theoretical game of ultimate frisbee between Pittsburgh-B and Franciscan that may have occurred today. Well, it did happen. Would you believe me if I said it was a 15-9 Franciscan victory? My picks of Franciscan (-6) and Under 24 both pushed since I guessed both exactly right. I must be wizard.
+
