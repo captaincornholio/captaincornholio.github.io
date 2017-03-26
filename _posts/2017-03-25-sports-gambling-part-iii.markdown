@@ -13,16 +13,24 @@ This is probably more than you ever wanted to know about sports gambling, but is
 Props, short for propositional bets, are pretty silly and I try to avoid them when actual money is on the line. Usually they are things like how many rushing yards will player X get or will the home or away team win the coin flip? Bringing back our previous frisbee game, here are some examples of some props for the game.
 
 > Which team will score first?
+> 
 > Franciscan (-150)
+> 
 > Pittsburgh-B (+120)
 > 
+> 
 > How many turnovers will there be on the first point?
+> 
 > 0 (-115)
 > 1 (+110)
+> 
 > 2 or more (+150)
 > 
+> 
 > What will the jersey number be of the player who scores the first point?
+> 
 > Odd (-110)
+> 
 > Even (-110)
 > 
 
@@ -33,10 +41,15 @@ Future bets are long-term bets for bigger events in the future such as which tea
 > What team will win the 2017 Ultimate College National Championship?
 > 
 > Pittsburgh (+180)
+> 
 > UNC (+220)
+> 
 > Colorado (+250)
+> 
 > Minnesota (+350)
+> 
 > Oregon (+400)
+> 
 
 # Parlays
 
