@@ -8,7 +8,7 @@ permalink: /same-old-prom-story-part-iv/
 
 # An Unrelated Uplifting Conclusion
 
-So let us flashback to my senior year one last time. In my English literature class, we did a unit on satire which included a satirical essay by Jonathan Swift titled "A Modest Proposal" from the eighteenth century. Swift suggested that poor Irish citizens sell their children to be eaten by the rich. One of our assignments was to write a satircial essay in which we propose an outlandish solution for a problem that we face. Now I do not consider myself a great writer, but I think my essay is easily one of the greatest things I have ever produced. I posted it on Pastebin a few years back, but it is time to bring it home.
+So let us flashback to my senior year one last time. In my English literature class, we did a unit on satire which included a satirical essay by Jonathan Swift titled "A Modest Proposal" from the eighteenth century. Swift suggested that poor Irish citizens sell their children to be eaten by the rich. One of our assignments was to write a satirical essay in which we propose an outlandish solution for a problem that we face. Now I do not consider myself a great writer, but I think my essay is easily one of the greatest things I have ever produced. I posted it on Pastebin a few years back, but it is time to bring it home.
 
 > [Name redacted]
 > 
